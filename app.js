@@ -7,7 +7,9 @@ const output = document.querySelector(".output");
 //console.log(output); // <div class="output">New content</div>
 
 // Storing json data in a variable
-const localJsonFile = "local.json";
+//const localJsonFile = "local.json";
+const localJsonFile = "https://raw.githubusercontent.com/restrepo/json2html/main/local.json";
+
 
 // The DOMContentLoaded event fires when the initial HTML document has been completely loaded and parsed,
 // without waiting for stylesheets, images, and subframes to finish loading.
