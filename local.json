@@ -1,0 +1,51 @@
+[
+    {
+      "firstName": "Shash",
+      "lastName": "WebDev",
+      "gender": "male",
+      "age": 35,
+      "address": {
+        "streetAddress": "123",
+        "city": "Greater Manchester",
+        "postalCode": "M32"
+      },
+      "phoneNumbers": [{ "type": "home", "number": "123456789" }]
+    },
+    {
+      "firstName": "Rihan",
+      "lastName": "Anne",
+      "gender": "Female",
+      "age": 28,
+      "address": {
+        "streetAddress": "019",
+        "city": "Dublin",
+        "postalCode": "D01"
+      },
+      "phoneNumbers": [{ "type": "home", "number": "238047651" }]
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "gender": "male",
+      "age": 38,
+      "address": {
+        "streetAddress": "456",
+        "city": "London",
+        "postalCode": "E1"
+      },
+      "phoneNumbers": [{ "type": "home", "number": "987654321" }]
+    },
+    {
+      "firstName": "Kelly",
+      "lastName": "Brokes",
+      "gender": "Female",
+      "age": 32,
+      "address": {
+        "streetAddress": "789",
+        "city": "Glasgow",
+        "postalCode": "G1"
+      },
+      "phoneNumbers": [{ "type": "home", "number": "345672198" }]
+    }
+  ]
+  
